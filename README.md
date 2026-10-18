@@ -8,7 +8,7 @@ problems, with comparative benchmarks.
 - Simulated Annealing · GRASP + Local Search
 
 ## Problems
-- Traveling Salesman Problem (40–200 nodes, with comparative reports)
+- Traveling Salesman Problem (40-200 nodes, with comparative reports)
 - 0/1 Knapsack · Graph Coloring · Graph Partitioning · Task Scheduling
 
 ## Stack
